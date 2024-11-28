@@ -14,7 +14,7 @@ def noms_binome():
     Affiche les noms des membres du binôme
     Attention, chacun écrit la ligne pour afficher son nom
     """
-    return "Thomas"
+    return "Alexis"
 
 
 a = 2
@@ -24,4 +24,3 @@ print(f"La somme de {a} et {b} vaut {addition(a, b)}")
 print(f"La différence de {a} et {b} vaut {soustraction(a, b)}")
 
 noms_binome():
-    return Alexis
