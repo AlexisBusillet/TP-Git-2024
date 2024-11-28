@@ -23,4 +23,5 @@ b = 1
 print(f"La somme de {a} et {b} vaut {addition(a, b)}")
 print(f"La différence de {a} et {b} vaut {soustraction(a, b)}")
 
-noms_binome()
+noms_binome():
+    return Alexis
